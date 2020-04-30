@@ -59,12 +59,6 @@ class Clients extends Component {
     } else {
       return <h1>Loading...</h1>;
     }
-
-    return (
-      <div>
-        <h1>Clients</h1>
-      </div>
-    );
   }
 }
 
